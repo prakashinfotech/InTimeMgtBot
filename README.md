@@ -22,7 +22,7 @@ once authenticated user can use Time officer BOT. It greets user and ask process
  
 
   
-# Note : After Creating Azure Bot Service, LUIS account,  update reference keys in web.config file.
+Note : After Creating Azure Bot Service, LUIS account,  update reference keys in web.config file.
   
   
   
