@@ -11,10 +11,18 @@ once authenticated user can use Time officer BOT. It greets user and ask process
 3. Select user, and choose any action. BOT will do action as per chosen option.
 
 
+# References to create Azure BOT Service, Developing, Testing, and publish on Azure.
+
+1. Create a bot with Bot Service - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart?view=azure-bot-service-3.0
+2. Create a bot with the Bot Builder SDK for .NET - https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-quickstart?view=azure-bot-service-3.0
+3. Call a LUIS endpoint using C# - https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-cs-get-intent
+4. Debug bots with the Bot Framework Emulator -  https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-3.0
+5. Deploy your bot to Azure - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-deploy-azure?view=azure-bot-service-3.0
+6. Publish a bot to Bot Service - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-continuous-deployment?view=azure-bot-service-3.0
  
- 
+
   
-  
+# Note : After Creating Azure Bot Service, LUIS account,  update reference keys in web.config file.
   
   
   
