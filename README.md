@@ -24,7 +24,7 @@ once authenticated user can use Time officer BOT. It greets user and ask process
   
 Note : After Creating Azure Bot Service, LUIS account,  update reference keys in web.config file.
   
-  
+  ![Architecture Diagram](https://github.com/prakashinfotech/InTimeMgtBot/blob/master/Architecture%20Diagram%20-%201.jpg)
   
   
   
